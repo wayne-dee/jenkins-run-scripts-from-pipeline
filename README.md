@@ -17,7 +17,6 @@ sh(‘./scripts/build.sh’)
 bat(‘..\scripts\build.bat’)
 ```
 
-
 Absolute paths can be used to reference files in the workspace or in other locations on the systems where the job is being run.
 ```
 sh(‘/usr/local/bin/build.sh’)
