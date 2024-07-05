@@ -13,7 +13,6 @@ pipeline {
     triggers {
         cron '@midnight'
     }
-    
     stages {
         stage('Make executable') {
             steps {
