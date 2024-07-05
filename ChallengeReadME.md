@@ -1,5 +1,7 @@
-# 03_05 Challenge Connect Jenkins to GitHub
 [![Build Status](http://ec2-100-29-43-43.compute-1.amazonaws.com/buildStatus/icon?job=challenge-embeded-badges&build=1)](http://ec2-100-29-43-43.compute-1.amazonaws.com/job/challenge-embeded-badges/1/)
+
+
+# 03_05 Challenge Connect Jenkins to GitHub
 
 You're on a team developing an algorithm that calculates the value of pi.
 
