@@ -1,6 +1,6 @@
 # 03_03 Run scripts from the pipeline
 
-[![Build Status]( https://69c4-105-163-0-40.ngrok-free.app/buildStatus/icon?job=run-scripts-from-pipeline)](http://ec2-100-29-43-43.compute-1.amazonaws.com/job/run-scripts-from-pipeline/)
+[![Build Status](https://69c4-105-163-0-40.ngrok-free.app/buildStatus/icon?job=connect-to-github)](http://localhost:8080/job/connect-to-github/)
 
 Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile.
 
